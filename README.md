@@ -11,6 +11,16 @@ Beautiful UI - Soft lilac color scheme with rounded corners and smooth animation
 Entry Management - View, delete, and manage all your diary entries
 Auto-Save - All your data is automatically saved locally
 
+**Prerequisites**
+- Java 17 or higher
+- A Java IDE (IntelliJ IDEA, Eclipse, or VS Code)
+
+**License**
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+**Acknowledgments**
+AI assistance provided by Claude AI
+
 **Screenshots**
 
 <img width="448" height="741" alt="Ekran Resmi 2025-10-14 12 53 41" src="https://github.com/user-attachments/assets/a204a986-f0ac-4761-abd4-a90099582d97" />
@@ -30,15 +40,6 @@ src="https://github.com/user-attachments/assets/2089b010-1744-47f3-939c-b0eab822
 
 <img width="448" height="751" alt="Ekran Resmi 2025-10-14 12 55 24" src="https://github.com/user-attachments/assets/4fd98d65-24f8-4b95-ac0d-728ee8d75c02" />
 
-**Prerequisites**
-- Java 17 or higher
-- A Java IDE (IntelliJ IDEA, Eclipse, or VS Code)
-
-**License**
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-**Acknowledgments**
-AI assistance provided by Claude AI
 
 
 
