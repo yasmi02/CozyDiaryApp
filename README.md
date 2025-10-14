@@ -12,6 +12,7 @@ Entry Management - View, delete, and manage all your diary entries
 Auto-Save - All your data is automatically saved locally
 
 **Screenshots**
+
 <img width="448" height="741" alt="Ekran Resmi 2025-10-14 12 53 41" src="https://github.com/user-attachments/assets/a204a986-f0ac-4761-abd4-a90099582d97" />
 
 <img width="448" height="751" alt="Ekran Resmi 2025-10-14 12 53 59" src="https://github.com/user-attachments/assets/a0a87b49-5c52-4e9b-9cfe-8e2e05f74783" />
