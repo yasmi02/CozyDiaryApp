@@ -6,10 +6,11 @@ Daily Journal Entries - Write and save your daily thoughts with custom titles an
 Mood Tracking - Choose from 14 different mood emojis to represent how you're feeling
 Calendar View - See all your entries organized by date
 Habit Tracker- Track daily habits like skincare, reading, hydration, and meditation
-PIN Protection - Optional PIN security to keep your diary private (default: 1234)
+PIN Protection - Optional PIN security to keep your diary private 
 Beautiful UI - Soft lilac color scheme with rounded corners and smooth animations
 Entry Management - View, delete, and manage all your diary entries
 Auto-Save - All your data is automatically saved locally
+Different Themes - Lilac, pink, blue, green, gray, orange, and yellow
 
 **Prerequisites**
 - Java 17 or higher
