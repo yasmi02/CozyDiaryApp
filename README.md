@@ -20,7 +20,7 @@ Different Themes - Lilac, pink, blue, green, gray, orange, and yellow
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 **Acknowledgments**
-AI assistance provided by Claude AI
+AI assistance provided by Claude AI for design of the project
 
 **Screenshots**
 
