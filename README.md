@@ -16,8 +16,24 @@ Different Themes - Lilac, pink, blue, green, gray, orange, and yellow
 - Java 17 or higher
 - A Java IDE (IntelliJ IDEA, Eclipse, or VS Code)
 
-**License**
-This project is licensed under the MIT License - see the LICENSE file for details.
+**Technical Features:**
+Java Swing UI - Custom components (rounded buttons, cards, gradient panels)
+MVC Architecture - Separation of data, UI, and business logic
+CardLayout Navigation - Smooth screen switching
+Responsive Design - Mobile-friendly 450x750 window size
+Search Functionality - Filter entries by date/content
+Date Management - Automatic timestamp and date formatting
+Custom Theming - Dynamic color switching with ThemeManager
+Error Handling - Input validation and user-friendly error messages
+
+**UI/UX Features:**
+Bottom navigation bar
+Scrollable entry lists
+Entry preview cards
+Delete confirmations
+Empty states
+Hover effects
+Custom fonts and colors
 
 **Acknowledgments**
 AI assistance provided by Claude AI for design of the project
